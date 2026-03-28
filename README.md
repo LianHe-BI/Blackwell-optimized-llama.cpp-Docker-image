@@ -59,7 +59,7 @@ It is a **ready-to-run inference environment** that eliminates the infamous “e
 
 1. Download & Merge / 下载并合并
 
-从 [Releases](https://github.com/你的用户名/你的仓库名/releases) 下载所有分卷（如 `blackwell-v4.1-final.tar.gz.part-aa` …），然后合并：
+从 [Releases](https://github.com/LianHe-BI/Blackwell-optimized-llama.cpp-Docker-image/releases/tag/content) 下载所有分卷（如 `blackwell-v4.1-final.tar.gz.part-aa` …），然后合并：
 
 ```bash
 cat blackwell-v4.1-final.tar.gz.part-* > blackwell-v4.1-final.tar.gz
